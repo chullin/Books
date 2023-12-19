@@ -1563,3 +1563,33 @@ gossip      留言蜚語
 I got wind of their plan to launch a new product through office gossip.         我透過辦公室八卦得知了他們計劃推出新產品的消息。
 window  窗戶
 wise    智慧的
+wish    希望
+with    和...一起
+without     (介)沒有、(副)在外面
+woman   女人
+professional    職業的；專業的
+dedicated   盡心盡力的；盡職盡責的
+term    期；期限；術語
+emphasize   強調；重視
+commitment  忠誠；奉獻；承諾；遞交
+ambition    抱負；志向
+beyond  更遠；遠於
+career woman    refers to a woman who is focused on her professional life and is dedicated a building a successful career. This term emphasize a woman's commitment to her work and ambitions beyond traditional gender roles.
+wonderful   令人驚奇的
+word    字詞
+fulfill     實現；達到；執行
+importance  重要性
+reliability     可靠性；可信度
+trustworthiness     可靠性；可信度
+keep your word  is an idiom that means to fulfill a promise or to do what you said you would do. It emphasizes the importance of honesty, reliability, and trustworthiness in maintaining one's commitments.
+work    工作
+worker  工作者
+world   世界
+convey  表達；傳達
+unwilling   不情願的；勉強的
+circumstance    條件；情況；無法控制的因素；命運
+reluctance  不情願；免強
+refusal     拒絕
+Not for the world   is an idiomatic expression used to convey that someone is unwilling to do something under and circumstances or for any reason. It emphasizes a strong reluctance or refusal.
+worry   擔心
+write   書寫
