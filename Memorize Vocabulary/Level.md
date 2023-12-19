@@ -1528,3 +1528,38 @@ Which	哪個
 
 
 L46
+while   (連)在...的時候、(名)一會兒、(動)消磨(時間)
+white   (形)白色的、(名)白色
+who     誰
+whose   誰的
+why     為什麼
+wide    (形)寬的、(副)充分地
+idiom    /ˈɪd.i.əm/成語；慣用語
+inaccurate  不準確；不精確
+statement   (正式的)說明；聲明；表態
+far from correct    離事實很遠
+wide of the mark    is an idiom that means incorrect or inaccurate. if someone's statement or guess is wide of the mark, it means they are far from being correct.
+His estimate of the project's cost was wide of the mark; it ended up being much higher.     他對專案成本的預估完全不準確，最後成本比他預期的高很多
+wife    妻子
+will    (助)將要、(名)意志
+ultimately  最後
+succeed     成功；實現目標  
+prevail      /prɪˈveɪl/佔優勢；佔上風    
+competition     競爭
+imply   暗示
+obstacle    障礙
+win out     is a phrasal verb that means to ultimately succeed or prevail, often after facing challengers or competition. it implies achieving victory or overcoming obstacles.
+despite     儘管；不論
+tough        /tʌf/結實的；堅固的
+secure      牢固的
+industry    工業；產業；行業
+Despite facing tough competition, her determination had hard work allowed her to win out and secure the top position in the industry.   儘管面對激烈競爭，她的毅力和努力使她最終取得了行業的領先地位
+win     (動)贏得、(名)勝利
+wind    (名)風、(動)嗅出
+aware   意識到
+informal    非正式的
+get wind of something   is an idiomatic expression that means to hear about or become aware of a piece of information, often in an indirect or informal way.
+gossip      留言蜚語
+I got wind of their plan to launch a new product through office gossip.         我透過辦公室八卦得知了他們計劃推出新產品的消息。
+window  窗戶
+wise    智慧的
