@@ -1593,3 +1593,31 @@ refusal     拒絕
 Not for the world   is an idiomatic expression used to convey that someone is unwilling to do something under and circumstances or for any reason. It emphasizes a strong reluctance or refusal.
 worry   擔心
 write   書寫
+
+
+
+L47
+writer  作家
+wrong   (形副)錯誤的(地)、(動)錯誤
+yard    院子
+household   一家人；一戶；家庭
+furniture   傢俱
+goods 貨物；商品
+typically   典型地；有代表性地；一般；通常
+driveway    私人通道
+residence   家；住房
+individual      個人的
+declutter   清理；清除(多餘物品)
+yard sale   is a sale of used or unwanted household items, furniture, clothing, and other goods, typically held in the front yard or driveway of a person's residence. It's a way for individuals to declutter and sell items they no longer need.
+get rid of  擺脫
+we're having a yard sale this weekend to get rid of some old furniture and clothes.     這個週末我們將舉行庭院拍賣，以處理一些舊傢俱和衣物。
+year    年
+yellow  (形)黃色的、(名)黃色、(動)發黃
+yes     (副)是的、(名)同意
+yeah    (副)是的、(名)同意
+yesterday   昨天
+yet     (副)還沒、(連)可是
+you/your/yours/yourself/yourselves      你、你們
+young   (形)年輕的、(名)青年們
+zero    零
+zoo     動物園
