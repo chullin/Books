@@ -118,6 +118,81 @@ The city comes alive during the holiday season, with festive decorations and joy
 alone   單獨的
 aloud   大聲地
 altogether  完全、全部
+You need to pay me two hundred dollars altogether.      你總共要付我兩百元
 among   在...中
+popular among   受好評
 amount  (名)總額、(動)合計
-ancient     古代的
+amount of something     總計
+ancient     /ˈeɪn.ʃənt/古代的
+Beth rea the ancient Rome history.      貝斯閱讀古羅馬歷史
+anger   (名)生氣
+Laura is filled with anger      蘿拉充滿了怒氣
+angle   角度
+angle for something     博取
+ankle   腳踝
+anytime     在任何時候
+anyway  無論如何；反正
+anywhere/anyplace   任何地方
+ape      /eɪp/猿猴
+go ape  失去自制力；暴跳如雷
+appearance      出現；外表
+concerned   擔心的；關心的；關於
+The actor has been concerned about his appearance.  這位男演員很注重他的外表
+appetite    /ˈæp.ə.taɪt/胃口
+sour    /saʊr/酸的
+spoil   破壞；糟蹋
+The sour milk spoils his appetite   這酸掉的牛奶影響他的胃口
+apply   應用
+he applied for the job  他應徵這份工作
+appreciate  欣賞；感激
+
+
+
+
+L3
+approach    (名)方式；(動)接近
+argue   爭論
+argument    議論
+lose an argument    輸掉辯論
+arm     手臂
+They stood arm in arm   他們臂挽著臂站著
+arrange 安排；準備
+appointment     約會；預定；約定
+Leon arranged an appointment for Friday     里昂安排禮拜五見面
+arrangement     安排
+security arrangement    保安措施
+arrival     抵達
+arrival lobby   入境大廳
+arrow   箭頭
+straight arrow      正直而坦率的人
+Fred is a straight arrow.   費德是個老實人
+article     文章；論文
+artist      藝術家
+asleep  (形)睡著的、(副)陷入睡眠
+fall asleep     掉入睡著的狀態；睡著；進入夢鄉
+fell    past time of fall
+The baby fell asleep    這小孩睡著了
+sleep   睡；睡覺；入睡（處於閉眼、身體不活躍且頭腦無意識的休息狀態）
+sleepy  睏的；想睡的
+attempt     (名)企圖、(動)試圖
+escape  逃跑；避開
+He attempt to escape    他試圖逃跑
+attend      參加
+Will you attend the meeting tomorrow?   你會參加明天的會議嗎？
+attention   注意
+pay attention to 注意
+author  (名)作者、(動)撰寫
+available    /əˈveɪ.lə.bəl/可用的；有空的
+She is available this evening   她傍晚有空
+average     (形)平均的、(名動)平均
+average out     平均數為
+avoid   避免
+backpack    (名)背包、(動)背包旅行
+backward    向後的(地)
+hesitant    猶豫的
+hesitant smile  勉強的微笑
+intention   意圖；打算
+suggest     建議
+confidence  自信
+assertiveness   果斷
+Not backward in coming forward      implies that a person is not hesitant or shy about expressing their thoughts, opinions, or intentions. It suggests a level of confidence and assertiveness in communication.
