@@ -77,3 +77,47 @@ Go ahead!    請便!
 aid     幫助
 aim     (名)目標；(動)瞄準
 she takes aim at Ed.    她批評艾德
+
+
+
+
+
+L2
+aircraft    飛行器
+encompass   包含
+bomber  轟炸機
+reconnaissance       /rɪˈkɑː.nə.səns/偵查
+transport   運輸
+context     背景；環境
+military aircraft   encompasses a wide range of vehicles, including fighter jets, bombers, reconnaissance planes, transport planes, and helicopters, each designed for specific functions within a military context.
+deploy      有效運用；發揮...的作用；部屬；調動
+conduct     組織；實施；處理
+along   沿著；順著
+The air force deployed military aircraft to conduct surveillance along the border.      空軍部署了軍用飛機進行沿邊境的監視。
+alarm       (名)警報、(動)向...報警
+album   相簿
+alike   相似地(的)
+alive   活的
+inviting    令人愉快的；吸引人的
+establish   /ɪˈstæb.lɪʃ/建立；創立
+residence   住家
+particular  特定
+hospitable  友好的
+come live      is an informal expression inviting someone to come and establish their residence in a particular location. It implies a welcoming or hospitable tone.
+undergo     經歷
+transformation  徹底改變
+dull     /dʌl/枯燥的；無趣的
+inactive    無行動的；不活躍的
+lively       /ˈlaɪv.li/精力充沛的；活躍的
+signifies   表示；意味著
+infusion    注入；灌輸；沖泡
+vitality    生命力；活力
+come alive      is used when something or someone undergoes a transformation from a dull or inactive state to a lively and energetic one. It signifies a positive change or an infusion of vitality.
+festive     節日的；歡樂的
+The city comes alive during the holiday season, with festive decorations and joyful celebrations everywhere.    城市在假期季節變得充滿活力，到處都是節慶裝飾和歡樂的慶祝活動。
+alone   單獨的
+aloud   大聲地
+altogether  完全、全部
+among   在...中
+amount  (名)總額、(動)合計
+ancient     古代的
