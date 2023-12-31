@@ -1,4 +1,6 @@
-# ForEnglish
-Take time to memorize English every day
+# Books
+It wasn't my first book, but it wasn't until someone told me in a Thread App that I could write down some of my own tips to share!
 
-Quiz: https://quizlet.com/chullin/folders/122733713?i=uiiqr&x=1xqt
+My first extracurricular book since I graduated form my master's degree, "原子習慣", which I read when I was in the army. There are a lot of useful tips in it, but since it's no easy to keep track of them, so I only read it at that time.
+
+My second book, "獨立，不等於跟愛情誓不兩立!" It describes a lot of new ideas and breaks down a lot of strange arguments. Some of the more impressive ones are, for example, that girls like to use the fact that a guy will or won't invite guests as a way of judging whether or not the other party loves them, but why don't they do that? There is also the idea of keeping oneself attractive at all times, no matter after dating, or even after marriage, otherwise marriage is just a matter of being together out of habit. I have learned this from high school civics, Sternberg -- Triangular Theory of Love, which consists of three elements: passion, intimacy, and commitment. But for some people, as time passes, all that's left are habits.
