@@ -81,7 +81,7 @@ president       總統
 
 
 
-L31
+L32
 press           (名)記者們、(動)按壓
 press conference        記者招待會
 pressure        (名)壓力、(動)強迫
