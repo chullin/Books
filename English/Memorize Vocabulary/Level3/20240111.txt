@@ -80,6 +80,12 @@ She is a pretty bride           她真是漂亮的新娘
 broadcast           廣播
 brunch              早午餐
 bublle          (名)泡沫；冒泡、(動)冒泡
+
+
+
+
+
+L6
 bucket          水桶
 a bucket of water           一桶水
 bud             (名)花蕾、(動)使發芽
@@ -121,5 +127,5 @@ capable             能夠的
 captain             船長
 capture             俘虜、奪取、贏得;獲得，取得
 data capture        數據蒐集
-carrer                  職業
-carrer break        離職期
+career                  職業
+career break        離職期
