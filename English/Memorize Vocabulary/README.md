@@ -12,3 +12,9 @@ Total 6 Levels, originally 2 pages a day, but found the speed is too slow, on 20
 在 p.179 頁，居然有單字拼錯
 (x) harrassment
 (o) harassment
+
+
+我發現百度翻譯做得很好，一般字典有的功能都有，甚至
+1. 可以念例句
+2. 有同義反義詞
+3. 有字根自首會列出來
