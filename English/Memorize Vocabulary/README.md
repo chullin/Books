@@ -13,6 +13,10 @@ Total 6 Levels, originally 2 pages a day, but found the speed is too slow, on 20
 (x) harrassment
 (o) harassment
 
+p.263
+(x) land a pouch
+(o) land a punch
+
 
 我發現百度翻譯做得很好，一般字典有的功能都有，甚至
 1. 可以念例句
