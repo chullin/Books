@@ -9,6 +9,19 @@
 Total 6 Levels, originally 2 pages a day, but found the speed is too slow, on 2023/12/19 started to try 4-6 pages a day.
 
 
+
+我發現百度翻譯做得很好，一般字典有的功能都有，甚至
+1. 可以念例句
+2. 有同義反義詞
+3. 有字根自首會列出來
+
+
+---
+以下列出 這本書中的各種錯誤，可能更多...
+---
+
+
+
 在 p.179 頁，居然有單字拼錯
 (x) harrassment
 (o) harassment
@@ -41,7 +54,7 @@ p.268
 (o)van                 箱型車；麵包車(12人座)
 
 
-我發現百度翻譯做得很好，一般字典有的功能都有，甚至
-1. 可以念例句
-2. 有同義反義詞
-3. 有字根自首會列出來
+p.298
+(x)coat of arms         武裝外衣
+(o)coat of arms         我看網路上全部都是 "紋章"
+
