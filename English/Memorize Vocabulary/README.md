@@ -58,3 +58,6 @@ p.298
 (x)coat of arms         武裝外衣
 (o)coat of arms         我看網路上全部都是 "紋章"
 
+p.300
+例句中的 autograph 我看大家複數都只有加 "s"
+為什麼書上面要加 "es"? 我嚴重懷疑又寫錯了
