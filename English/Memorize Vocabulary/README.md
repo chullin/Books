@@ -61,3 +61,6 @@ p.298
 p.300
 例句中的 autograph 我看大家複數都只有加 "s"
 為什麼書上面要加 "es"? 我嚴重懷疑又寫錯了
+
+p.312
+居然把 continual 跟 continuous 放在一起
