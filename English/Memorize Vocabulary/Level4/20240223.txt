@@ -48,6 +48,7 @@ The Snow White was portray by Marie.                白雪公主由瑪莉扮演
 Mary 主要出現在英語和聖經中，是 Maria 的英文形式，所以意思一樣
 Maria 主要出現在法語、捷克語、德語、英語等等
 possess                                     /pəˈzes/(動)擁有
+process                                     /ˈprɑːses/過程
 possession                                (名)擁有
 postage                                    /ˈpoʊstɪdʒ/郵資
 potential                                   (形)潛在的、(名)潛力
@@ -60,3 +61,10 @@ She worked hard to meet her predecessor                     她努力做事達�
 pregnancy                                (名)懷孕
 pregnancy test                          驗孕
 pregnant                                    (形)懷孕的
+presentation                                贈送；提交
+make a presentation                     報告
+preservation                                  (名)保存
+self-preservation                           自我保護
+preserve                                        (動)保存
+She does her best to preserve her reputation                她盡她所能維護她的名譽
+reputation                                          名譽
