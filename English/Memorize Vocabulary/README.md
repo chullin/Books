@@ -64,3 +64,8 @@ p.300
 
 p.312
 居然把 continual 跟 continuous 放在一起
+
+p.380
+還以為最近錯誤變比較少
+sparkle 例句，加 ing 應該是 sparkling
+例句中卻少了 "l"
