@@ -58,6 +58,8 @@ usage                                               用法
 vacancy                                             空白
 We have several vacancies for casual workers.               我們有幾個臨時工的空缺
 casual                                                (形)隨便的；臨時的；偶然的、(名)臨時工；便裝
+We are starting a new line in casual clothes.                   我們將著手經營新款式的休閒服裝。
+new line                                            新建路線；另起一行
 vain                                                   /veɪn/無益的；徒勞的
 make a vain attempt                         做些無益的企圖
 I knocked loudly in the vain hope that someone might answer.                我敲門敲得很響，希望有人回應，卻是徒然
@@ -66,8 +68,9 @@ a vast of                                             大量的
 In the vast majority of cases, this should not be a problem.                        在絕大多數情況下，這應該不成問題
 vegetarian                                          素食主義者
 vessel                                                  /ˈvesl/容器
-"Cup" us a vessel                                   「杯子」是容器
+"Cup" is a vessel                                   「杯子」是容器
 a drug that constricts the blood vessels               收縮血管的藥
+constricts                                             限制；約束；收縮；緊縮
 violate                                                 違反
 violate one's privacy                           侵犯他人隱私
 violation                                               違反
