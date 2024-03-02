@@ -8,7 +8,7 @@ backstreet abortion 							非法流產
 backstreet 										(名)偏僻街道；小巷、(形)祕密的；偷偷摸摸的；暗地裡的
 abrupt 											/əˈbrʌpt/突然的
 abrupt with sb. 								言語唐突
-These policies have sent the constrction industry into an abrupt nosedive. 				這些政策使得建築業的情況急轉直下。
+These policies have sent the construction industry into an abrupt nosedive. 				這些政策使得建築業的情況急轉直下。
 policies 										policy 的複數；政策；方針
 construction	 								建設；施工；建築；建造
 nosedive 										(名動)暴跌；急轉直下
@@ -53,3 +53,66 @@ activist 										/ˈæktɪvɪst/行動主義
 Ben is an activist 								班是個行動主義者
 acute 											尖銳的；劇烈的
 acute pain 										劇痛
+
+
+
+
+
+L2
+administraiton 									行政
+business administration 						企管
+administrative 									行政上的
+an administrative assistant 					行政助理
+administrator 									統治者
+Amy is a smart administrator	 				艾咪是聰明的統治者
+adolescent 										/ˌædəˈlesnt/(形)青春期的；幼稚的、(名)青少年
+a bit adolescent 								有點幼稚
+adore 											/əˈdɔːr/崇拜
+adore sb. for 									對於...感到崇拜
+She absolutely adores you 						他極為崇拜你
+adverse 										不利的
+This material has an adverse effect on the final product. 				這材料對最終產品產生負面影響
+advocate 										/ˈædvəkeɪt/(名)提倡者、(動)提倡
+devil's advocate 								故意唱反調者
+devil 											/ˈdevl/魔鬼；惡魔
+affection 										影響
+affection for sb. 								對某人的鍾愛
+agenda 											/əˈdʒendə/議程
+hidden agenda 									秘密意圖
+Let's go on to the next item on the agenda 		讓我們接著進行下一項議程吧
+aggression 										侵略
+cause aggression 								引起攻擊性
+agony 											/ˈæɡəni/痛苦
+pile on the agony 								傷口上灑鹽
+pile 											(名)堆；大量；許多、(動)放置；推放
+It was agony not knowing where the children were. 			孩子們下落不明真讓人揪心。
+agricultural 									農業的
+He studies in agricultural 						他在農學院讀書
+aisle 											/aɪl 哎喲/，念法怎麼這麼怪；走道
+They are rolling in the aisle 					他們大笑
+alcoholic 										(形)含酒精的、(名)嗜酒者
+alien 											(形)外國(人)的、(名)外星人
+alien to 										格格不入
+allergic 										/əˈlɜːrdʒɪk/過敏的
+allergic rhinitis 								過敏性鼻炎
+rhinitis 										/raɪˈnaɪtɪs/鼻炎
+Many people are allergic to airborne pollutants such as pollen. 			許多人對空氣傳播的污染物過敏，例如花粉。
+airborne 										/ˈerbɔːrn/空降的；空氣傳播的；
+pollutants 										/pəˈlutənts/汙染物
+pollen 											/ˈpɑːlən/花粉
+allergy 										過敏症
+have an allergy to 								對...過敏
+alliance 										/əˈlaɪəns/聯盟
+make an alliance 								締結聯盟
+The President's visit was intended to cement the alliance between the two countries. 			總統的訪問是為了加强两國的聯盟。
+intended 										/ɪnˈtendɪd/打算的；計畫預定的
+cement 											/sɪˈment/(名)水泥、(動)加強；鞏固
+allocate 										分配
+The teacher allocated the cake to all students. 			老師把蛋糕分配給所有學生
+ally 											/ˈælaɪ/(名)同盟者、(動)同盟
+ally with 										和...結盟
+The decision left the country isolated from its allies. 					這個決定使這個國家在盟國中受到孤立。
+alongside 										(介)在...旁邊、(副)在旁邊
+A bus stops alongside her. 						一輛公車在她旁邊停下來
+alter 											更改
+It alters the way he think 						這改變了他的想法
