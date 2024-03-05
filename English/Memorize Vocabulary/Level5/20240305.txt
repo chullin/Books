@@ -86,3 +86,44 @@ comply 									/kəmˈplaɪ/遵守
 We should comply with the requirements. 				我們應該遵守規定
 component 								(名)成分、(形)組成的
 Love is an important component in any relationship. 		在任何關係中，愛都是重要的成分
+compound 								(名)合成物、(動)組合、(形)合成的
+a compound of A and B 					A 和 B 的合成物
+comprehend 								理解
+He cannot comprehend why he can be so lazy. 				他無法理解為何他這麼懶
+comprehension 							理解力
+reading comprehension 					閱讀理解
+comprise 								由...構成
+be comprise of 							由...構成
+
+
+
+
+
+L10
+compromise 								妥協
+reach a compromise 						達成妥協
+compulsory 								/kəmˈpʌlsəri/義務的
+Compulsory education begins at the age of six in Taiwan. 			台灣的義務教育從六歲開始
+conceal 								/kənˈsiːl/隱藏
+conceal sth. from sb. 					對某人隱瞞事情
+concede 								/kənˈsiːd/承認
+"You are the best," he conceded 		你是最好的。他承認
+conceive 								構想
+conceive of 							構想
+God is often conceiced of as male. 		上帝常常被想像為男性。
+conception 								概念
+have/has no conception of 				對...沒概念
+He has no conception of how difficult life is if you're umemployed. 			他不知道如果你失業了，生活會有多困難。
+condemn 								/kənˈdem/譴責
+condemn as 								被譴責為...
+The policy has been condemned as a regressive step.				這項政策被譴責為倒退措施。
+regressive 								回歸；倒退的；退化的
+conduct 								(動)指導；引導、(名)行為
+The teacher conducted them around the museum. 			老師引導他們遊覽博物館
+confession 								承認
+make a confession 						招認
+His confession involved a number of other politicians in the affair. 			他的自白供出其他一些政治人物也涉及此事。
+the affair 								這件事；風流韻事；緋聞
+confidential 							祕密的 
+confidential documents 					秘密文件
+My letter is, of coursem strictly private and confidential. 			當然，我的信純屬私人信件，務須保密。
