@@ -69,3 +69,8 @@ p.380
 還以為最近錯誤變比較少
 sparkle 例句，加 ing 應該是 sparkling
 例句中卻少了 "l"
+
+
+p.425
+exaggeration    的例句
+that 拼成 taht  
