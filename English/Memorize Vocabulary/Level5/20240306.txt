@@ -60,7 +60,108 @@ copyright 										(名)版權、(動)取得版權
 core 											核心
 corporate 										法人的；公司的
 corporate management 							公司管理
-corporation 									公司
+corporation 									/ˌkɔːrpəˈreɪʃn/公司
+international corporate 						國際公司
 correlation 									相關性
 There is a direct correlation between exposure to sun and skin cancer. 					皮膚暴露在太陽下與皮膚癌有直接關係。
 exposure 										暴露
+correspondent 									/ˌkɔːrəˈspɑːndənt/通信者；記者
+Leon was a war correspondent 					里昂以前是戰地記者
+correspond 										相一致；通訊；符合
+corridor 										/ˈkɔːrɪdɔːr/走廊
+You'll find his office just along the corridor. 					沿著走廊你就可以找到他的辦公室。
+corrupt 										(形)腐敗的、(動)墮落
+She was corrupted by wealth. 					她因為財富而墮落
+corruption 										墮落
+Here was corruption on a grand scale. 			這裡的貪腐現象曾十分嚴重。
+counsel 										/ˈkaʊnsl/商議；建議
+Most experts counsel caution in such cases. 			大多數專家建議在這樣的情況下要謹慎從事。
+caution 										小心；警告
+counselor 										/ˈkaʊnsələr/顧問
+His works as a counselor 						他的工作是顧問
+courteous 										/ˈkɜːrtiəs/有禮貌的
+She is a courteous girl 						她是有禮貌的女孩
+coverage										覆蓋範圍；新聞報導
+coverage of 									包含
+What did you think of the BBC's election coverage?				對英國廣播公司的大選報道你怎麽看？
+election 										選舉
+credibility 									可信度
+credit card 									信用卡
+credibility gap 								缺乏可信度
+creek 											小河
+She was up the creek 							她正處於窘境
+cripple 										(動)使成跛子、(名)跛子
+He helped a cripple cross the street. 			他幫忙跛子過馬路
+criterion 										/kraɪˈtɪriən/標準
+criteria 										標準的複數形態
+the main criterion 								主要標準
+No candidate fulfils all the criteria for this position. 				沒有一個候選人完全符合這個職位的標準。
+fulfil											履行；實現；rm41o4
+crucial 										/ˈkruːʃl/關係重大的
+She made a crucial decision. 					他做出關鍵性決定
+crude 											/kruːd/天然的
+This is called crude oil. 						這稱為原油
+cruise 											/kruːz/巡航
+She cruised around the block looking for a parking space. 				她繞著那個街區慢慢行駛，想找個停車的地方。
+crystal 										/ˈkrɪstl/(名)水晶、(形)清澈的
+Liquid Crystal Display 							液晶螢幕
+
+
+
+
+
+L13
+cuisine 										/kwɪˈziːn/烹調
+American cuisine 								美式烹飪
+currency 										貨幣
+common currency 								流傳
+The country experienced a foreign currency shortage for several months. 				這個國家經歷了幾個月的外匯短缺。
+foreign currency 								外匯
+curriculum 										/kəˈrɪkjələm/課程
+national curriculum 							(英國國立中小學)全國統一課程
+Spanish is in the curriculum. 					西班牙文已納入課程內容。
+custody 										/ˈkʌstədi/監護
+His parents had a custody dispute. 				他的父母發生監護權爭議
+dispute 										爭端；糾紛
+customs 										關稅
+excise 											/ˈeksaɪz/消費稅
+Customs and Excise 								關稅和消費稅
+deadly 											致命的
+deadly disease 									致命疾病
+debris 											/dəˈbriː/碎片
+People are always busy in cleaning up debris after a typhoon. 			颱風過後，人們總忙著清理碎片
+debut 											/deɪˈbjuː/初次亮相
+The singer released his first debut single. 			這個歌手第一次發行單曲
+decay 											/dɪˈkeɪ/腐壞
+tooth decay										蛀牙
+deceive 										欺騙
+He deceive himself. 							他欺騙他自己
+decent 											/ˈdiːsnt/端正的
+do the decent thing 							做的人心之事
+declaration 									宣告
+a customs declaration 							報關單
+decline 										下降
+economic decline 								經濟衰退
+dedicate 										以...奉獻
+David dedicates himself to his work. 			大衛把自身奉獻給工作
+defendant 										被告
+That defendant is guilty of shoplifting 		那名被告因順手牽羊而背叛有罪
+shoplifting 									/ˈʃɑːplɪftɪŋ/順手牽羊；shoplift的現在分詞
+deficit 										/ˈdefɪsɪt/赤字
+Those companies have been operating at a deficit. 				那些公司營運虧損
+defy 											/dɪˈfaɪ/違抗
+The baby boy defied all the odds and survived. 					這名男嬰九死一生活了下來。
+delegate 										(名)代表、(動)委派...為代表
+delegate to 									交給某人
+The conference was attended by delegates from 56 countries. 				這次會議有來自56個國家的代表出席。
+delegation 										委任
+delegation of authority 						授予權力
+deliberate 										/dɪˈlɪbərət/(形)深思熟慮的、(動)仔細考慮
+deliberate on 									深思熟慮某事
+She spoke in a slow and deliberate way. 		她說話慢條斯理不慌不忙。
+democrat 										/ˈdeməkræt/民主主義者
+Liberal Democrat Party 							自由民主黨
+The Democrats are now in government in the US. 				美國目前是民主黨人執政。
+denial 											/dɪˈnaɪəl/否定
+in denial 										不接受事實
+The patient is still in denial. 				病人仍然拒不接受事實。
