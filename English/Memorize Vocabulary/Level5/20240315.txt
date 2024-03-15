@@ -19,6 +19,7 @@ juvenile 									(形)少年的；未成年的；幼稚的、(名)青少年
 Don't be so juvenile 						別這麼孩子氣
 Tony was a juvenile offender 				湯尼是少年罪犯
 offender 									罪犯；犯罪者
+offend 										冒犯
 landlord 									房東
 Ben is a rich landlord 						班是有錢的房東
 laser 										雷射
