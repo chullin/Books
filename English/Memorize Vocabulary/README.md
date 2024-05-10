@@ -74,3 +74,9 @@ sparkle 例句，加 ing 應該是 sparkling
 p.425
 exaggeration    的例句
 that 拼成 taht  
+
+p.478
+(o) He paid the ultimate price. 	他付出了最終的代價
+(x) He paid the ultimate price. 	他付出了最後代價
+
+感覺作者真的不是正港台灣人欸，用詞都有點怪
